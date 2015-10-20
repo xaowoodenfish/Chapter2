@@ -1,4 +1,4 @@
-# time 10.20 2015
+# time Oct.20 2015
 # if not input a int ,return a tip to back until a right in
 a = raw_input('Input an integer:')
 while True:
